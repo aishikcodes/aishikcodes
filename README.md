@@ -1,21 +1,137 @@
-# 💫 About Me:
-I’m currently working on: Building small cybersecurity and web development projects to strengthen my practical skills<br>I’m looking to collaborate on: Open-source projects related to cybersecurity, web apps, or automation tools<br>I’m looking for help with: Advanced cybersecurity concepts, real-world project ideas, and internship guidance<br>I’m currently learning: Data structures and algorithms, networking fundamentals, and ethical hacking basics<br>Ask me about: C programming, basic web development, and beginner cybersecurity topics<br>Fun fact: I enjoy solving tech problems and setting up my own systems and labs
+<h1 align="center">Hi 👋, I'm Aishik Chakraborty</h1>
+<h3 align="center">
+Cybersecurity Enthusiast • Full Stack Developer • C Programmer
+</h3>
 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=aishikcodes&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=aishikcodes&theme=calm_pink&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aishikcodes&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aishikcodes&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+Building secure applications, learning offensive security, and solving real-world engineering problems.
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=aishikcodes&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 🎓 Engineering Student from **Kolkata, India**
+- 🔐 Learning **Cybersecurity & Ethical Hacking**
+- 💻 Building **Web Applications & Security Tools**
+- 🌱 Currently exploring
+  - Advanced Networking
+  - Penetration Testing
+  - System Programming
+  - Backend Development
+- 🤝 Open to collaborating on
+  - Cybersecurity Projects
+  - Open Source
+  - Full Stack Applications
+- 📫 Reach me: **your-email@example.com**
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,ts,js,html,css" />
+</p>
+
+### Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,tailwind,firebase" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=azure,aws,vercel,docker,git,github" />
+</p>
+
+### Security & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,bash,vscode,postman" />
+</p>
+
+---
+
+## 📌 Current Focus
+
+```text
+🔐 Cybersecurity
+███████████████████░░ 90%
+
+🌐 Full Stack Development
+█████████████████░░░░ 80%
+
+⚙️ Data Structures & Algorithms
+████████████████░░░░░ 75%
+
+☁️ Cloud Computing
+████████████░░░░░░░░░ 60%
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aishikcodes&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishikcodes&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=aishikcodes&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🔐 Cybersecurity Toolkit | Collection of security automation tools |
+| 🌐 Portfolio Website | Personal responsive portfolio |
+| 🤖 Welcome Bot | Discord/Automation Bot |
+| 📚 DSA Solutions | LeetCode & DSA practice repository |
+
+---
+
+## 🎯 Goals for 2026
+
+- ✅ Build production-ready security tools
+- ✅ Contribute to Open Source
+- ✅ Learn Reverse Engineering
+- ✅ Master Web Security
+- ✅ Earn cybersecurity certifications
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+
+<a href="https://github.com/aishikcodes">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINK">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<i>"Code securely. Learn continuously. Build things that matter."</i>
+</p>

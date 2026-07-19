@@ -1,74 +1,81 @@
-<h1 align="center">Hi 👋, I'm Aishik Chakraborty</h1>
+<!-- ========================================= -->
+<!--              HEADER BANNER               -->
+<!-- ========================================= -->
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:06B6D4,100:0F172A&text=Aishik%20Chakraborty&fontColor=ffffff&fontSize=45&fontAlignY=38&animation=fadeIn"/>
+</p>
+
+<h1 align="center">Hi 👋 I'm Aishik Chakraborty</h1>
+
 <h3 align="center">
-Cybersecurity Enthusiast • Full Stack Developer • C Programmer
+Cybersecurity Enthusiast • Full Stack Developer • Engineering Student
 </h3>
 
 <p align="center">
-Building secure applications, learning offensive security, and solving real-world engineering problems.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Secure+Applications;Learning+Cybersecurity;Backend+Developer;Always+Learning+New+Technologies"/>
+
 </p>
 
 ---
 
-## 🚀 About Me
+## ✨ Philosophy
 
-- 🎓 Engineering Student from **Kolkata, India**
-- 🔐 Learning **Cybersecurity & Ethical Hacking**
-- 💻 Building **Web Applications & Security Tools**
-- 🌱 Currently exploring
-  - Advanced Networking
-  - Penetration Testing
-  - System Programming
-  - Backend Development
-- 🤝 Open to collaborating on
-  - Cybersecurity Projects
-  - Open Source
-  - Full Stack Applications
-- 📫 Reach me: **your-email@example.com**
+> **"Build quietly. Learn relentlessly. Ship with purpose."**
+
+---
+
+## 👨‍💻 About Me
+
+```bash
+> whoami
+
+Name      : Aishik Chakraborty
+Location  : Kolkata, India
+
+Role      : Engineering Student
+
+Focus:
+  • Cybersecurity
+  • Backend Development
+  • Linux
+  • Networking
+  • Full Stack Development
+
+Currently:
+  • Building security tools
+  • Learning penetration testing
+  • Solving DSA
+  • Contributing to Open Source
+
+Goal:
+  Build software that is secure, scalable,
+  and solves real-world problems.
+```
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,ts,js,html,css" />
-</p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,react,nextjs,nodejs,express,mongodb,mysql,docker,linux,bash,git,github,aws,azure,firebase,vscode&perline=11"/>
 
-### Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,tailwind,firebase" />
-</p>
-
-### Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=azure,aws,vercel,docker,git,github" />
-</p>
-
-### Security & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,bash,vscode,postman" />
 </p>
 
 ---
 
-## 📌 Current Focus
+## 🚀 Current Focus
 
 ```text
-🔐 Cybersecurity
-███████████████████░░ 90%
+🔐 Cybersecurity             ████████████████░░░ 90%
 
-🌐 Full Stack Development
-█████████████████░░░░ 80%
+🌐 Full Stack Development    ██████████████░░░░ 80%
 
-⚙️ Data Structures & Algorithms
-████████████████░░░░░ 75%
+📚 Data Structures           █████████████░░░░░ 75%
 
-☁️ Cloud Computing
-████████████░░░░░░░░░ 60%
+☁ Cloud Computing            ██████████░░░░░░░░ 60%
 ```
 
 ---
@@ -77,55 +84,88 @@ Building secure applications, learning offensive security, and solving real-worl
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aishikcodes&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aishikcodes&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishikcodes&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishikcodes&layout=compact&theme=transparent&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=aishikcodes&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=aishikcodes&theme=transparent&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🏆 Featured Projects
+## 📈 Contribution Graph
 
-| Project | Description |
-|---------|-------------|
-| 🔐 Cybersecurity Toolkit | Collection of security automation tools |
-| 🌐 Portfolio Website | Personal responsive portfolio |
-| 🤖 Welcome Bot | Discord/Automation Bot |
-| 📚 DSA Solutions | LeetCode & DSA practice repository |
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aishikcodes&theme=github-compact"/>
+
+</p>
 
 ---
 
-## 🎯 Goals for 2026
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🔐 Cybersecurity Toolkit | Security automation utilities |
+| 🌐 Portfolio Website | Modern responsive portfolio |
+| 🤖 Welcome Bot | Discord automation bot |
+| 📚 DSA Repository | LeetCode & interview preparation |
+
+---
+
+## 🎯 2026 Goals
 
 - ✅ Build production-ready security tools
-- ✅ Contribute to Open Source
-- ✅ Learn Reverse Engineering
 - ✅ Master Web Security
-- ✅ Earn cybersecurity certifications
+- ✅ Learn Reverse Engineering
+- ✅ Contribute to Open Source
+- ✅ Earn Cybersecurity Certifications
+- ✅ Build SaaS Projects
+
+---
+
+## 💡 Favorite Quote
+
+> *"Security is not a product. It is a continuous process."*
+
+> *"Every line of clean code is an investment in the future."*
 
 ---
 
 ## 🌐 Connect With Me
 
-<p>
+<p align="center">
 
 <a href="https://github.com/aishikcodes">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINK">
+<a href="YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:YOUR_EMAIL">
 <img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://skillicons.dev/icons?i=vercel"/>
 </a>
 
 </p>
@@ -133,5 +173,15 @@ Building secure applications, learning offensive security, and solving real-worl
 ---
 
 <p align="center">
-<i>"Code securely. Learn continuously. Build things that matter."</i>
+
+<img src="https://komarev.com/ghpvc/?username=aishikcodes&style=for-the-badge&color=0e75b6"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:0F172A,50:06B6D4,100:4F46E5"/>
+
 </p>

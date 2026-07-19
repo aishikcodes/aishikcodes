@@ -158,7 +158,7 @@ Learning Docker, AWS and Azure.
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aishikcodes&theme=github_dark"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aishikcodes&theme=github_dark&utcOffset=5.5"/>
+
 
 </p>
 

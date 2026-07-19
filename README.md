@@ -1,21 +1,19 @@
 <!-- ========================================= -->
-<!--              HEADER BANNER               -->
+<!--               HEADER                      -->
 <!-- ========================================= -->
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:06B6D4,100:0F172A&text=Aishik%20Chakraborty&fontColor=ffffff&fontSize=45&fontAlignY=38&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:06B6D4,100:0F172A&text=Aishik%20Chakraborty&fontColor=ffffff&fontSize=46&fontAlignY=38&animation=fadeIn"/>
 </p>
 
-<h1 align="center">Hi 👋 I'm Aishik Chakraborty</h1>
+<h1 align="center">Hi 👋, I'm Aishik Chakraborty</h1>
 
 <h3 align="center">
 Cybersecurity Enthusiast • Full Stack Developer • Engineering Student
 </h3>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Secure+Applications;Learning+Cybersecurity;Backend+Developer;Always+Learning+New+Technologies"/>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Secure+Applications;Learning+Cybersecurity;Backend+Developer;Open+Source+Contributor;Always+Learning+Something+New"/>
 </p>
 
 ---
@@ -29,126 +27,114 @@ Cybersecurity Enthusiast • Full Stack Developer • Engineering Student
 ## 👨‍💻 About Me
 
 ```bash
-> whoami
+$ whoami
 
 Name      : Aishik Chakraborty
 Location  : Kolkata, India
 
 Role      : Engineering Student
 
-Focus:
-  • Cybersecurity
-  • Backend Development
-  • Linux
-  • Networking
-  • Full Stack Development
+Interests :
+ • Cybersecurity
+ • Backend Development
+ • Networking
+ • Linux
+ • Cloud
 
-Currently:
-  • Building security tools
-  • Learning penetration testing
-  • Solving DSA
-  • Contributing to Open Source
+Currently :
+ • Building Security Tools
+ • Learning Penetration Testing
+ • Solving DSA
+ • Exploring System Design
 
-Goal:
-  Build software that is secure, scalable,
-  and solves real-world problems.
+Mission :
+ Build software that is secure,
+ scalable and meaningful.
 ```
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,react,nextjs,nodejs,express,mongodb,mysql,docker,linux,bash,git,github,aws,azure,firebase,vscode&perline=11"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,nodejs,express,react,nextjs,mongodb,mysql,docker,linux,bash,git,github,aws,azure,firebase,vscode&perline=10"/>
 
 </p>
 
 ---
 
-## 🚀 Current Focus
+# 🚀 Current Focus
 
 ```text
-🔐 Cybersecurity             ████████████████░░░ 90%
+🔐 Cybersecurity              ███████████████████░ 90%
 
-🌐 Full Stack Development    ██████████████░░░░ 80%
+🌐 Full Stack Development     ████████████████░░░░ 80%
 
-📚 Data Structures           █████████████░░░░░ 75%
+📚 Data Structures            ███████████████░░░░░ 75%
 
-☁ Cloud Computing            ██████████░░░░░░░░ 60%
+☁ Cloud Computing             ████████████░░░░░░░░ 60%
 ```
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aishikcodes&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aishikcodes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishikcodes&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishikcodes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=aishikcodes&theme=transparent&hide_border=true"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aishikcodes&theme=github-compact"/>
+<img src="https://streak-stats.demolab.com?user=aishikcodes&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+# 📈 GitHub Activity Graph
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aishikcodes&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 | Project | Description |
 |---------|-------------|
-| 🔐 Cybersecurity Toolkit | Security automation utilities |
-| 🌐 Portfolio Website | Modern responsive portfolio |
+| 🔐 Cybersecurity Toolkit | Security automation tools |
+| 🌐 Portfolio Website | Personal responsive portfolio |
 | 🤖 Welcome Bot | Discord automation bot |
 | 📚 DSA Repository | LeetCode & interview preparation |
 
 ---
 
-## 🎯 2026 Goals
+# 🎯 2026 Goals
 
-- ✅ Build production-ready security tools
-- ✅ Master Web Security
+- ✅ Master Cybersecurity
+- ✅ Build Production Security Tools
 - ✅ Learn Reverse Engineering
 - ✅ Contribute to Open Source
-- ✅ Earn Cybersecurity Certifications
 - ✅ Build SaaS Projects
+- ✅ Earn Security Certifications
 
 ---
 
-## 💡 Favorite Quote
+# 💬 Favorite Quote
 
-> *"Security is not a product. It is a continuous process."*
-
-> *"Every line of clean code is an investment in the future."*
+> **"Security isn't a feature. It's a mindset."**
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -174,7 +160,7 @@ Goal:
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=aishikcodes&style=for-the-badge&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=aishikcodes&style=for-the-badge&color=0E75B6"/>
 
 </p>
 
@@ -182,6 +168,6 @@ Goal:
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:0F172A,50:06B6D4,100:4F46E5"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F172A,50:06B6D4,100:4F46E5"/>
 
 </p>

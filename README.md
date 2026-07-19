@@ -1,190 +1,233 @@
-# 🍎 Aishik Chakraborty
+<!-- ========================================= -->
+<!--               HEADER                      -->
+<!-- ========================================= -->
 
-```{=html}
 <p align="center">
-```
-`<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,40:2563EB,100:7C3AED&text=Aishik%20Chakraborty&fontColor=ffffff&fontSize=48&animation=fadeIn"/>`{=html}
-```{=html}
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:06B6D4,100:0F172A&text=Aishik%20Chakraborty&fontColor=ffffff&fontSize=46&fontAlignY=38&animation=fadeIn"/>
 </p>
-```
-```{=html}
+
+<h1 align="center">Hi 👋, I'm Aishik Chakraborty</h1>
+
 <h3 align="center">
-```
 Cybersecurity Enthusiast • Full Stack Developer • Engineering Student
-```{=html}
 </h3>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1200&color=60A5FA&center=true&vCenter=true&width=700&lines=Building+Secure+Applications;Learning+Cybersecurity;Backend+Developer;Open+Source+Contributor"/>`{=html}
-```{=html}
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Secure+Applications;Learning+Cybersecurity;Backend+Developer;Open+Source+Contributor;Always+Learning+Something+New"/>
 </p>
-```
-```{=html}
-<p align="center">
-```
-`<i>`{=html}"Build quietly. Learn relentlessly. Ship with
-purpose."`</i>`{=html}
-```{=html}
-</p>
-```
 
-------------------------------------------------------------------------
+---
 
-# 👨‍💻 About Me
+## ✨ Philosophy
 
-``` bash
+> **"Build quietly. Learn relentlessly. Ship with purpose."**
+
+---
+
+## 👨‍💻 About Me
+
+```bash
 $ whoami
 
 Name      : Aishik Chakraborty
 Location  : Kolkata, India
 
-Focus:
- • Cybersecurity
- • Backend Engineering
- • Linux
- • Networking
+Role      : Engineering Student
 
-Currently:
- • Building practical security tools
+Interests :
+ • Cybersecurity
+ • Backend Development
+ • Networking
+ • Linux
+ • Cloud
+
+Currently :
+ • Building Security Tools
+ • Learning Penetration Testing
  • Solving DSA
- • Learning penetration testing
- • Exploring cloud deployment
+ • Exploring System Design
+
+Mission :
+ Build software that is secure,
+ scalable and meaningful.
 ```
 
-------------------------------------------------------------------------
+---
 
 # 🛠 Tech Stack
 
-```{=html}
 <p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,react,nextjs,nodejs,express,mongodb,mysql,docker,linux,bash,git,github,aws,azure,firebase,vscode&perline=10"/>`{=html}
-```{=html}
-</p>
-```
 
-------------------------------------------------------------------------
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,nodejs,express,react,nextjs,mongodb,mysql,docker,linux,bash,git,github,aws,azure,firebase,vscode&perline=10"/>
+
+</p>
+
+---
 
 # 🚀 Current Focus
 
-> GitHub does not support native progress bars, so these use SVG images.
+<div align="center">
 
-```{=html}
-<p>
-```
-`<b>`{=html}🔐 Cybersecurity`</b>`{=html}`<br>`{=html}
-`<img src="https://progress-bar.dev/90/?title=Progress&color=22C55E"/>`{=html}
+<table>
+<tr>
+<td width="180">
 
-`<b>`{=html}🌐 Full Stack Development`</b>`{=html}`<br>`{=html}
-`<img src="https://progress-bar.dev/80/?title=Progress&color=3B82F6"/>`{=html}
+### 🔐 Cybersecurity
 
-`<b>`{=html}📚 Data Structures & Algorithms`</b>`{=html}`<br>`{=html}
-`<img src="https://progress-bar.dev/75/?title=Progress&color=F59E0B"/>`{=html}
+Building security tools and learning Web Security.
 
-`<b>`{=html}☁️ Cloud Computing`</b>`{=html}`<br>`{=html}
-`<img src="https://progress-bar.dev/60/?title=Progress&color=8B5CF6"/>`{=html}
+</td>
 
-```{=html}
-</p>
-```
+<td>
 
-------------------------------------------------------------------------
+<img src="https://progress-bar.dev/90/?title=Progress&width=420&color=22C55E"/>
 
-# 📦 Featured Projects
+</td>
+</tr>
 
-  Project                    Description                 Stack
-  -------------------------- --------------------------- ---------------
-  🔐 Cybersecurity Toolkit   Security automation tools   Python, Linux
-  🌐 Portfolio Website       Personal portfolio          React
-  🤖 Welcome Bot             Automation bot              Node.js
-  📚 DSA Repository          Interview preparation       C / Java
+<tr>
+<td>
 
-------------------------------------------------------------------------
+### 🌐 Full Stack
+
+Building scalable React + Node.js applications.
+
+</td>
+
+<td>
+
+<img src="https://progress-bar.dev/80/?title=Progress&width=420&color=3B82F6"/>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 📚 DSA
+
+Daily LeetCode and interview preparation.
+
+</td>
+
+<td>
+
+<img src="https://progress-bar.dev/75/?title=Progress&width=420&color=F59E0B"/>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### ☁ Cloud
+
+Learning Docker, AWS and Azure.
+
+</td>
+
+<td>
+
+<img src="https://progress-bar.dev/60/?title=Progress&width=420&color=8B5CF6"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
 
 # 📊 GitHub Analytics
 
-```{=html}
 <p align="center">
-```
-`<img height="165" src="https://github-readme-stats.vercel.app/api?username=aishikcodes&show_icons=true&theme=tokyonight&hide_border=true"/>`{=html}
-`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishikcodes&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
-```{=html}
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aishikcodes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishikcodes&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://streak-stats.demolab.com?user=aishikcodes&theme=tokyonight&hide_border=true"/>`{=html}
-```{=html}
+
+<img src="https://streak-stats.demolab.com?user=aishikcodes&theme=tokyonight&hide_border=true"/>
+
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-# 📈 Contribution Graph
+# 📈 GitHub Activity Graph
 
-```{=html}
 <p align="center">
-```
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=aishikcodes&theme=tokyo-night"/>`{=html}
-```{=html}
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aishikcodes&theme=tokyo-night"/>
+
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-# 🐍 Contribution Snake
+# 🚀 Featured Projects
 
-> Requires a GitHub Actions workflow to generate.
+| Project | Description |
+|---------|-------------|
+| 🔐 Cybersecurity Toolkit | Security automation tools |
+| 🌐 Portfolio Website | Modern responsive portfolio |
+| 🤖 Welcome Bot | Discord automation bot |
+| 📚 DSA Repository | LeetCode & interview preparation |
 
-```{=html}
-<p align="center">
-```
-`<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>`{=html}
-```{=html}
-</p>
-```
-
-------------------------------------------------------------------------
+---
 
 # 🎯 2026 Goals
 
--   Build production-ready security tools
--   Contribute to Open Source
--   Learn reverse engineering
--   Earn cybersecurity certifications
--   Publish technical blogs
+- ✅ Master Cybersecurity
+- ✅ Build Production Security Tools
+- ✅ Learn Reverse Engineering
+- ✅ Contribute to Open Source
+- ✅ Build SaaS Projects
+- ✅ Earn Security Certifications
 
-------------------------------------------------------------------------
+---
 
-# 🌐 Connect
+# 💬 Favorite Quote
 
-```{=html}
+> **"Security isn't a feature. It's a mindset."**
+
+---
+
+# 🌐 Connect With Me
+
 <p align="center">
-```
-`<a href="https://github.com/aishikcodes">`{=html}`<img src="https://skillicons.dev/icons?i=github"/>`{=html}`</a>`{=html}
-`<a href="YOUR_LINKEDIN">`{=html}`<img src="https://skillicons.dev/icons?i=linkedin"/>`{=html}`</a>`{=html}
-`<a href="mailto:YOUR_EMAIL">`{=html}`<img src="https://skillicons.dev/icons?i=gmail"/>`{=html}`</a>`{=html}
-`<a href="YOUR_PORTFOLIO">`{=html}`<img src="https://skillicons.dev/icons?i=vercel"/>`{=html}`</a>`{=html}
-```{=html}
-</p>
-```
 
-------------------------------------------------------------------------
+<a href="https://github.com/aishikcodes">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
-```{=html}
-<p align="center">
-```
-`<img src="https://komarev.com/ghpvc/?username=aishikcodes&style=for-the-badge&color=2563EB"/>`{=html}
-```{=html}
+<a href="YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://skillicons.dev/icons?i=vercel"/>
+</a>
+
 </p>
-```
-```{=html}
+
+---
+
 <p align="center">
-```
-`<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F172A,40:2563EB,100:7C3AED"/>`{=html}
-```{=html}
+
+<img src="https://komarev.com/ghpvc/?username=aishikcodes&style=for-the-badge&color=0E75B6"/>
+
 </p>
-```
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F172A,50:06B6D4,100:4F46E5"/>
+
+</p>

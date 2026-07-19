@@ -66,75 +66,15 @@ Mission :
 
 # 🚀 Current Focus
 
-<div align="center">
+```text
+🔐 Cybersecurity              ███████████████████░ 90%
 
-<table>
-<tr>
-<td width="180">
+🌐 Full Stack Development     ████████████████░░░░ 80%
 
-### 🔐 Cybersecurity
+📚 Data Structures            ███████████████░░░░░ 75%
 
-Building security tools and learning Web Security.
-
-</td>
-
-<td>
-
-<img src="https://progress-bar.dev/90/?title=Progress&width=420&color=22C55E"/>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🌐 Full Stack
-
-Building scalable React + Node.js applications.
-
-</td>
-
-<td>
-
-<img src="https://progress-bar.dev/80/?title=Progress&width=420&color=3B82F6"/>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 📚 DSA
-
-Daily LeetCode and interview preparation.
-
-</td>
-
-<td>
-
-<img src="https://progress-bar.dev/75/?title=Progress&width=420&color=F59E0B"/>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### ☁ Cloud
-
-Learning Docker, AWS and Azure.
-
-</td>
-
-<td>
-
-<img src="https://progress-bar.dev/60/?title=Progress&width=420&color=8B5CF6"/>
-
-</td>
-</tr>
-</table>
-
-</div>
+☁ Cloud Computing             ████████████░░░░░░░░ 60%
+```
 
 ---
 
@@ -142,9 +82,9 @@ Learning Docker, AWS and Azure.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aishikcodes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aishikcodes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishikcodes&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishikcodes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
 
 </p>
 
@@ -171,7 +111,7 @@ Learning Docker, AWS and Azure.
 | Project | Description |
 |---------|-------------|
 | 🔐 Cybersecurity Toolkit | Security automation tools |
-| 🌐 Portfolio Website | Modern responsive portfolio |
+| 🌐 Portfolio Website | Personal responsive portfolio |
 | 🤖 Welcome Bot | Discord automation bot |
 | 📚 DSA Repository | LeetCode & interview preparation |
 

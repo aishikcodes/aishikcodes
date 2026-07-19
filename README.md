@@ -156,15 +156,29 @@ Learning Docker, AWS and Azure.
 
 ---
 
-# 📈 GitHub Activity Graph
+## 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aishikcodes&theme=tokyo-night"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aishikcodes&theme=github_dark"/>
 
 </p>
 
----
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aishikcodes&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aishikcodes&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aishikcodes&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aishikcodes&theme=github_dark&utcOffset=5.5"/>
+
+</p>
 
 # 🚀 Featured Projects
 

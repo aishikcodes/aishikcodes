@@ -3,247 +3,162 @@
 </p>
 <div align="center">
 
-# 👋 Hi, I'm Aishik Chakraborty
+<h1 align="center">Hey 👋, I'm Aishik Chakraborty</h1>
 
-### Engineering Student • Frontend Developer • Cybersecurity Enthusiast
-
-<p>
-  <a href="https://github.com/aishikcodes">
-    <img src="https://img.shields.io/github/followers/aishikcodes?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers">
-  </a>
-  <a href="https://github.com/aishikcodes?tab=repositories">
-    <img src="https://img.shields.io/github/stars/aishikcodes?label=Stars&style=for-the-badge&logo=github" alt="GitHub Stars">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=aishikcodes&style=for-the-badge" alt="Profile Views">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aishikcodes&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/aishikcodes?label=Followers&style=flat" alt="Followers" />
 </p>
 
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-stats-extended.vercel.app/api?username=aishikcodes&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"
+        alt="Aishik's GitHub Stats"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-streak-stats-eight.vercel.app/?user=aishikcodes&theme=tokyonight&hide_border=true"
+        alt="Aishik's GitHub Streak"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
----
+<h2 align="center">🛠️ Tech Stack</h2>
 
-## 🧑‍💻 About Me
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=arduino,c,cpp,css,figma,git,html,java,js,linux,mongodb,nextjs,nodejs,nuxtjs,postman,redis,rust,ts,unreal&perline=18&size=10"
+    alt="Tech Stack"
+  />
+</p>
 
-I'm an engineering student interested in building practical software and understanding how systems work.
+<table align="center" width="100%">
+  <tr>
+    <td width="75%" align="center">
+      <h3>📈 Contribution Activity</h3>
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=aishikcodes&theme=tokyo-night&hide_border=true&area=true&height=180"
+        alt="Aishik's Contribution Activity"
+        width="100%"
+      />
+    </td>
+    <td width="25%" align="center">
+      <h3>📌 GitHub Overview</h3>
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aishikcodes&theme=tokyonight"
+        alt="Aishik's GitHub Overview"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
-My current interests include:
-
-* 🌐 Frontend & Web Development
-* 🔐 Cybersecurity & Ethical Hacking
-* 🛡️ Network Security
-* 💻 Programming & Systems
-* 🐧 Linux
-* 🧩 Problem Solving
-* 🚀 Open Source & Engineering Projects
-
-I learn primarily by building projects, experimenting with technologies, and solving practical problems.
-
----
-
-## 🎯 Current Focus
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌱 Learning
-
-* Cybersecurity
-* Ethical Hacking
-* Network Security
-* Linux
-* C / C++
-* JavaScript / TypeScript
-* Modern Web Development
-
-</td>
-
-<td width="50%">
-
-### 🔭 Building
-
-* Engineering projects
-* Web applications
-* Security experiments
-* CTF projects
-* Automation tools
-* Open-source projects
-
-</td>
-</tr>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aishikcodes&theme=tokyonight"
+        alt="Aishik's Languages by Repository"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aishikcodes&theme=tokyonight"
+        alt="Aishik's Languages by Commit"
+        width="100%"
+      />
+    </td>
+  </tr>
 </table>
 
 ---
 
-# 🛠️ Technologies
+<h2 align="center">🏆 GitHub Achievements</h2>
 
-### 💻 Languages
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="45">
-</p>
-
-### 🌐 Web & Backend
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45">
-</p>
-
-### ⚙️ Tools
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45">
+<p align="center">
+  <a href="https://github.com/aishikcodes">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=aishikcodes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"
+      alt="Aishik's GitHub Trophies"
+    />
+  </a>
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+<h2 align="center">🚀 Featured Projects</h2>
 
-<div align="center">
+<p align="center">
+  <strong>Replace the two repository names below with your actual project names.</strong>
+</p>
 
-<a href="https://github.com/aishikcodes">
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=aishikcodes&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark&hide_border=true&cache_seconds=86400"
-alt="Aishik's GitHub Stats">
-</a>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/aishikcodes/YOUR_REPOSITORY_1">
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=aishikcodes&repo=YOUR_REPOSITORY_1&theme=tokyonight&hide_border=true"
+          alt="Featured Project 1"
+          width="100%"
+        />
+      </a>
+    </td>
 
-<a href="https://github.com/aishikcodes">
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishikcodes&layout=compact&langs_count=8&theme=github_dark&hide_border=true&cache_seconds=86400"
-alt="Aishik's Top Languages">
-</a>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<a href="https://github.com/aishikcodes">
-<img
-src="https://streak-stats.demolab.com/?user=aishikcodes&theme=github-dark-blue&hide_border=true"
-alt="Aishik's GitHub Streak">
-</a>
-
-</div>
+    <td width="50%" align="center">
+      <a href="https://github.com/aishikcodes/YOUR_REPOSITORY_2">
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=aishikcodes&repo=YOUR_REPOSITORY_2&theme=tokyonight&hide_border=true"
+          alt="Featured Project 2"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 📅 Contribution Activity
+<h2 align="center">🐍 Contribution Snake</h2>
 
-<div align="center">
-
-<a href="https://github.com/aishikcodes">
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=aishikcodes&theme=github-compact&hide_border=true&area=true&custom_title=Aishik%20Chakraborty's%20Contribution%20Graph"
-alt="Aishik's Contribution Graph">
-</a>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<a href="https://github.com/aishikcodes">
-<img
-src="https://github-profile-trophy.vercel.app/?username=aishikcodes&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"
-alt="GitHub Trophies">
-</a>
-
-</div>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/aishikcodes/aishikcodes/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/aishikcodes/aishikcodes/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/aishikcodes/aishikcodes/output/github-snake.svg"
+      alt="Aishik's GitHub Contribution Snake"
+    />
+  </picture>
+</p>
 
 ---
 
-# 🚀 Featured Projects
+<h2 align="center">🤝 Connect With Me</h2>
 
-<div align="center">
-
-<a href="https://github.com/aishikcodes/YOUR_PROJECT_1">
-<img
-src="https://github-readme-stats.vercel.app/api/pin/?username=aishikcodes&repo=YOUR_PROJECT_1&theme=github_dark&hide_border=true"
-alt="Featured Project 1">
-</a>
-
-<a href="https://github.com/aishikcodes/YOUR_PROJECT_2">
-<img
-src="https://github-readme-stats.vercel.app/api/pin/?username=aishikcodes&repo=YOUR_PROJECT_2&theme=github_dark&hide_border=true"
-alt="Featured Project 2">
-</a>
-
-</div>
-
----
-
-# 📈 GitHub Profile Highlights
-
-<div align="center">
-
-<a href="https://github.com/aishikcodes?tab=repositories">
-<img src="https://img.shields.io/badge/📦%20Repositories-View%20All-181717?style=for-the-badge&logo=github" alt="Repositories">
-</a>
-
-<a href="https://github.com/aishikcodes?tab=stars">
-<img src="https://img.shields.io/badge/⭐%20Stars-View%20Stars-181717?style=for-the-badge&logo=github" alt="Stars">
-</a>
-
-<a href="https://github.com/aishikcodes?tab=followers">
-<img src="https://img.shields.io/badge/👥%20Followers-View%20Followers-181717?style=for-the-badge&logo=github" alt="Followers">
-</a>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aishikcodes/aishikcodes/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aishikcodes/aishikcodes/output/github-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/aishikcodes/aishikcodes/output/github-snake.svg">
-</picture>
-
-</div>
-
----
-
-# 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/aishik-chakraborty/">
-<img src="https://img.shields.io/badge/LinkedIn-Aishik%20Chakraborty-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="https://github.com/aishikcodes">
-<img src="https://img.shields.io/badge/GitHub-aishikcodes-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💻 Build • Break • Learn • Repeat
-
-⭐ If you find something useful here, consider giving it a star.
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/aishik-chakraborty/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Aishik%20Chakraborty-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="https://github.com/aishikcodes">
+    <img
+      src="https://img.shields.io/badge/GitHub-aishikcodes-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+</p>

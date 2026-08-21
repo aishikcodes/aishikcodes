@@ -13,6 +13,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aishikcodes" alt="aishikcodes" /></a> </p>
 
+- 🔭 I’m currently working on **Engineering projects and improving my development skills**
+
+- 🌱 I’m currently learning **Cybersecurity, ethical hacking and network security**
+
+- 👯 I’m looking to collaborate on **Open-source and student engineering projects**
+
+- 🤝 I’m looking for help with **Building better projects and improving my development skills**
+
+- 💬 Ask me about **Cybersecurity, ethical hacking and CTFs**
+
+- 📄 Know about my experiences [Engineering student exploring cybersecurity through hands-on projects and practical learning](Engineering student exploring cybersecurity through hands-on projects and practical learning)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aishik-chakraborty/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aishik-chakraborty/" height="30" width="40" /></a>

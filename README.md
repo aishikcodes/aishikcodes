@@ -1,3 +1,6 @@
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:06B6D4,100:0F172A&text=Aishik%20Chakraborty&fontColor=ffffff&fontSize=46&fontAlignY=38&animation=fadeIn"/>
+</p>
 <div align="center">
 
 # 👋 Hi, I'm Aishik Chakraborty

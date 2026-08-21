@@ -3,162 +3,34 @@
 </p>
 <div align="center">
 
-<h1 align="center">Hey 👋, I'm Aishik Chakraborty</h1>
+# Hi 👋, I'm AISHIK
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aishikcodes&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/aishikcodes?label=Followers&style=flat" alt="Followers" />
+### CHAKRABORTY
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aishikcodes" alt="aishikcodes" /></a> </p>
+
+- 🔭 I'm currently working on **Engineering projects and improving my development skills**
+
+- 🌱 I'm currently learning **Cybersecurity, ethical hacking and network security**
+
+- 👯 I'm looking to collaborate on **Open-source and student engineering projects**
+
+- 🤝 I'm looking for help with **Building better projects and improving my development skills**
+
+- 💬 Ask me about **Cybersecurity, ethical hacking and CTFs**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/aishikcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="aishikcodes" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aishik-chakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aishik-chakraborty" height="30" width="40" /></a>
 </p>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img
-        src="https://github-stats-extended.vercel.app/api?username=aishikcodes&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"
-        alt="Aishik's GitHub Stats"
-        width="100%"
-      />
-    </td>
-    <td width="50%" align="center">
-      <img
-        src="https://github-readme-streak-stats-eight.vercel.app/?user=aishikcodes&theme=tokyonight&hide_border=true"
-        alt="Aishik's GitHub Streak"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aishikcodes&show_icons=true&locale=en&layout=compact" alt="aishikcodes" /></p>
 
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=arduino,c,cpp,css,figma,git,html,java,js,linux,mongodb,nextjs,nodejs,nuxtjs,postman,redis,rust,ts,unreal&perline=18&size=10"
-    alt="Tech Stack"
-  />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aishikcodes&show_icons=true&locale=en" alt="aishikcodes" /></p>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="75%" align="center">
-      <h3>📈 Contribution Activity</h3>
-      <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=aishikcodes&theme=tokyo-night&hide_border=true&area=true&height=180"
-        alt="Aishik's Contribution Activity"
-        width="100%"
-      />
-    </td>
-    <td width="25%" align="center">
-      <h3>📌 GitHub Overview</h3>
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aishikcodes&theme=tokyonight"
-        alt="Aishik's GitHub Overview"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aishikcodes&" alt="aishikcodes" /></p>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aishikcodes&theme=tokyonight"
-        alt="Aishik's Languages by Repository"
-        width="100%"
-      />
-    </td>
-    <td width="50%" align="center">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aishikcodes&theme=tokyonight"
-        alt="Aishik's Languages by Commit"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
-
----
-
-<h2 align="center">🏆 GitHub Achievements</h2>
-
-<p align="center">
-  <a href="https://github.com/aishikcodes">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=aishikcodes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"
-      alt="Aishik's GitHub Trophies"
-    />
-  </a>
-</p>
-
----
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<p align="center">
-  <strong>Replace the two repository names below with your actual project names.</strong>
-</p>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/aishikcodes/YOUR_REPOSITORY_1">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=aishikcodes&repo=YOUR_REPOSITORY_1&theme=tokyonight&hide_border=true"
-          alt="Featured Project 1"
-          width="100%"
-        />
-      </a>
-    </td>
-
-    <td width="50%" align="center">
-      <a href="https://github.com/aishikcodes/YOUR_REPOSITORY_2">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=aishikcodes&repo=YOUR_REPOSITORY_2&theme=tokyonight&hide_border=true"
-          alt="Featured Project 2"
-          width="100%"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/aishikcodes/aishikcodes/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/aishikcodes/aishikcodes/output/github-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/aishikcodes/aishikcodes/output/github-snake.svg"
-      alt="Aishik's GitHub Contribution Snake"
-    />
-  </picture>
-</p>
-
----
-
-<h2 align="center">🤝 Connect With Me</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aishik-chakraborty/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Aishik%20Chakraborty-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-  <a href="https://github.com/aishikcodes">
-    <img
-      src="https://img.shields.io/badge/GitHub-aishikcodes-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
-</p>
